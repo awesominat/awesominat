@@ -1,6 +1,6 @@
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=awesominat&show_icons=true&locale=en" style=" height: 190px;" alt="awesominat" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=awesominat&" style="height: 190px;" alt="awesominat" />
+  <img src="https://github-readme-stats.vercel.app/api?username=awesominat&show_icons=true&locale=en" style=" height: 140px;" alt="awesominat" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=awesominat&" style="height: 140px;" alt="awesominat" />
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=awesominat&label=Profile%20views&color=0e75b6&style=flat" alt="awesominat" /> </p>
